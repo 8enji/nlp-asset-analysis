@@ -8,7 +8,7 @@ import time
 class AssetEmail:
     server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
     sender = 'nlp.asset.analysis@gmail.com'
-    server.login(sender, 'altkbmizwthslytd')
+    server.login(sender, 'secret_password')
 
     def get_tickers(self):
         cont = True
