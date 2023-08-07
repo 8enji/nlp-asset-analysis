@@ -4,7 +4,15 @@ Stock & Crypto analysis made easy...
 
 ## Description
 
-Rather than wasting time reading every single news article regarding each compmay in your portfolio, this project allows the user to create an automated email bot which will send them all the information they need. The bot will input the user's monitored tickers and then will output summaries of the 5 most recent news articles regarding each ticker and the news articles sentiment values. The user is also able to customize the frequency at which they wish to recieve updates regarding their portfolio.
+Rather than wasting time reading every single news article regarding each company in your portfolio, this project allows the user to create an automated email bot which will send them all the information they need. The bot will input the user's monitored tickers and then will output summaries of the 5 most recent news articles regarding each ticker and the news articles sentiment values. The user is also able to customize the frequency at which they wish to recieve updates regarding their portfolio.
+
+### How It Works
+* scrapes the web for relevant news links 🗞️
+* cleans the links 🧼
+* extracts the articles from each link 📰
+* uses a pretrained financial NLP model to summarize each article 💸
+* uses a sentiment analysis pipeline to analyze sentiment of each article 😄
+* uses smtp and MIME to send completed analysis emails at a user specified frequency 📧
 
 ## Getting Started
 
