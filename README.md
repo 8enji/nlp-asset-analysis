@@ -25,7 +25,8 @@ rather than wasting time reading every single news article regarding each compan
 below is an example output as a csv file ⬇️
 
 
-![Screen Shot 2023-08-07 at 7 05 10 PM](https://github.com/8enji/nlp-asset-analysis/assets/58536087/97c3001e-df67-42db-a930-2a50e2ea270c)
+![Screen Shot 2023-08-07 at 8 19 49 PM](https://github.com/8enji/nlp-asset-analysis/assets/58536087/dde99e37-6a14-4e09-9aa9-c1f4940df8bd)
+
 
 
 below is an example of a scheduled newsletter ⬇️
