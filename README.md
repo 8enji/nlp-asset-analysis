@@ -1,6 +1,6 @@
 # nlp asset analysis 📈
 
-stock & crypto analysis made easy...
+stock & crypto news analysis made easy...
 
 ## description
 
